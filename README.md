@@ -4,8 +4,8 @@
 
 ## Requirements
 
-* Submit an updated portfolio featuring Project 1 and two exemplary homework assignments. 
-* Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments. 
+* Submit updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks
+* Submit updated GitHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects of homeworks.
 * Submit an updated resume. 
 * Submit an updated LinkedIn profile.
 
