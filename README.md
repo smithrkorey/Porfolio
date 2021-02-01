@@ -18,7 +18,7 @@
 
 The following images shows the finished site:
 ![Landing Page](Portfolio-1.png)
-![About Page](Portfolio-2.png)
+![About Page](portfolio-2.png)
 ![Work Page](Portfolio-3.png)
 ![Contact Page](Portfolio-4.png)
 
